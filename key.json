@@ -8,12 +8,8 @@
     "maintenanceMode": false,
     "maintenanceMsg": "DPMods server is temporarily down for maintenance.",
     "statusBadge": "SECURE",
-    "tags": [
-      "👨‍💻 Engine by DPMods 👨‍💻",
-      "🚀 DPMods V4 🚀",
-      "🛠 Stable Build"
-    ],
-    "title": "DPMods Core",
+    "tags": [],
+    "title": "VIDEO",
     "updateMsg": "New DPMods version available! Please update.",
     "updateRequired": false,
     "updateUrl": "https://t.me/dpmodsdialog"
