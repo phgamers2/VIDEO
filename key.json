@@ -33,6 +33,13 @@
       "banReason": "Test Key",
       "userRank": "Supreme User",
       "freezeAccount": false
+    },
+    "1FFC45A41CD30322": {
+      "hwid": "9B30200836E1ECB9",
+      "expireDate": "2026-05-16",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
